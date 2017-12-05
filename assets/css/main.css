@@ -1,0 +1,68 @@
+body {
+    margin: 0 auto;
+}
+
+/*Section HOMEPAGE*/
+.container-text-homepage {
+    margin: 3% 5% 5% 5%;
+    padding: 5%;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+}
+
+.title-homepage {
+    font-size: 400%;
+}
+
+.subtitle-homepage {
+    font-size: 140%;
+}
+
+/*Section BUTTONS*/
+.title-buttons,
+.title-tables,
+.title-thumbnails,
+.title-labels,
+.title-badges,
+.title-dropdown {
+    font-weight: bold;
+    width: 95%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.buttons,
+.tables,
+.thumbnails,
+.labels,
+.badges,
+.dropdown-section { /*section tables*/
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+
+.container-buttons,
+.image1 {
+    margin-top: 2%;
+}
+
+/*Section TABLES*/
+
+.table-striped {
+    background-color: #efefef;
+}
+
+.container-tables {
+    margin-top: 2%;
+}
+
+.container-badges {
+    margin-top: 2%;
+}
+
+.btn-primary,
+.text-profile,
+.text-message {
+    margin-right: 1%;
+}
+
