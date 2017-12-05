@@ -1,6 +1,3 @@
-body {
-    margin: 0 auto;
-}
 
 /*Section HOMEPAGE*/
 .container-text-homepage {
@@ -16,29 +13,6 @@ body {
 
 .subtitle-homepage {
     font-size: 140%;
-}
-
-/*Section BUTTONS*/
-.title-buttons,
-.title-tables,
-.title-thumbnails,
-.title-labels,
-.title-badges,
-.title-dropdown {
-    font-weight: bold;
-    width: 95%;
-    padding-bottom: 2%;
-    border-bottom: 1px solid #e5e5e5;
-}
-
-.buttons,
-.tables,
-.thumbnails,
-.labels,
-.badges,
-.dropdown-section { /*section tables*/
-    margin-left: 5%;
-    margin-bottom: 3%;
 }
 
 .container-buttons,
@@ -66,3 +40,4 @@ body {
     margin-right: 1%;
 }
 
+*/
